@@ -138,4 +138,3 @@ print(np.ndim(A_dot_B)) # Prints the dimension of the matrix
 # more tools from numpy reference on linear algebra "https://numpy.org/doc/stable/reference/routines.linalg.html"
 
 
-# 

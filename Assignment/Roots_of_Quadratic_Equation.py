@@ -25,7 +25,7 @@ print("P(x) = ax^2 + bx + c")
 
 # Defining the quadratic equation
 def poly(a, b, c):
-    print(f"The quadratic equation is: {a}x^2 + {b}x + c")
+    print(f"The quadratic equation is: {a}x^2 + {b}x + {c}")
     D = b**2 - 4*a*c
     
     if (D>0):

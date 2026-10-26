@@ -39,7 +39,7 @@ def poly(a, b, c):
         print(f"Root is: {x}")
     elif (D<0):
         print("Roots are conjugate complex pairs")
-        print(f"Complex conjugate roots are: {-b/(2*a)} + i{(np.sqrt(-D))/(2*a)} , {-b/(2*a)} - i{(np.sqrt(-D))/(2*a)}")
+        print(f"Complex conjugate roots are: {-b/(2*a)} + i({(np.sqrt(-D))/(2*a)}) , {-b/(2*a)} - i({(np.sqrt(-D))/(2*a)})")
 
 
 
